@@ -127,7 +127,7 @@ body:hover .visually-hidden button {
 
   @include breakpoint($small) {
     float: left;
-    margin-right: 1em;
+    margin-left: 1em; /* Changed to margin-left for RTL */
   }
 }
 
@@ -140,7 +140,7 @@ body:hover .visually-hidden button {
 
   @include breakpoint($small) {
     float: right;
-    margin-left: 1em;
+    margin-right: 1em; /* Changed to margin-right for RTL */
   }
 }
 
@@ -156,7 +156,7 @@ body:hover .visually-hidden button {
 
 .full {
   @include breakpoint($large){
-    margin-right: -1 * span(2.5 of 12) !important;
+    margin-left: -1 * span(2.5 of 12) !important; /* Changed to margin-left for RTL */
   }
 }
 
@@ -428,118 +428,10 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
-  color: mix(#fff, $gray, 25%);
-  text-decoration: none;
-}
-
-.footnotes {
-  color: mix(#fff, $gray, 25%);
-
-  small {
-    display: block;
-    margin: 0.5em 0;
-    font-size: 75%;
-  }
-}
-
-/*
-   Edit Links
-   ========================================================================== */
-
-.page-edit {
-  display: block;
-  font-size: 90%;
-  color: $light-text-color;
-
-  @include breakpoint($medium) {
-    display: inline-block;
-  }
-}
-
-/*
-   Links
-   ========================================================================== */
-
-a {
-  color: $link-color;
-  text-decoration: none;
-
-  &:hover {
-    color: $hover-color;
-    text-decoration: underline;
-  }
-}
-
-a:focus {
-  @include outline;
-}
-
-/*
-   Print
-   ========================================================================== */
-
-@media print {
-  *,
-  *:before,
-  *:after {
-    color: #000;
-    box-shadow: none;
-    background: transparent;
-  }
-
-  a,
-  a:visited,
-  a:link {
-    text-decoration: underline;
-    color: #000;
-  }
-
-  a[href]:after {
-    content: " (" attr(href) ")";
-  }
-
-  hr {
-    height: 1px;
-    border: 0;
-    border-bottom: 1px solid #000;
-  }
-
-  /* headers and footers */
-
-  body {
-    counter-reset: section;
-  }
-
-  h1 {
-    counter-reset: subsection;
-  }
-
-  h1:before {
-    counter-increment: section;
-    content: counter(section) ". ";
-  }
-
-  h2:before {
-    counter-increment: subsection;
-    content: counter(section) "." counter(subsection) " ";
-  }
-
-  header,
-  footer,
-  .page-header,
-  .page-edit,
-  .article-meta,
-  .page-footer,
-  .share-this,
-  .site-search,
-  .site-navigation,
-  .skip-link {
-    display: none;
-  }
-
-  .wrapper {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-  }
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  font-size: $font-size-small;
+  color: #333;
 }
