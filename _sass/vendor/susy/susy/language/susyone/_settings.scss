@@ -17,7 +17,7 @@ $grid-padding       : $gutter-width   !default;
 
 // From Direction:
 // Controls for right-to-left or bi-directional sites.
-$from-direction     : right            !default;
+$from-direction     : left            !default;
 
 // Omega Float Direction:
 // The direction that +omega elements are floated by deafult.
@@ -25,7 +25,7 @@ $omega-float        : opposite-position($from-direction)    !default;
 
 // Container Width:
 // Override the total width of your grid, using any length (50em, 75%, etc.)
-$from-direction     : right          !default;
+$from-direction     : left          !default;
 
 // Container Style:
 // 'magic'  - Static (fixed or elastic) when there's enough space,
