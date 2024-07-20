@@ -25,7 +25,7 @@ $omega-float        : opposite-position($from-direction)    !default;
 
 // Container Width:
 // Override the total width of your grid, using any length (50em, 75%, etc.)
-$container-width    : false           !default;
+$from-direction     : right          !default;
 
 // Container Style:
 // 'magic'  - Static (fixed or elastic) when there's enough space,
