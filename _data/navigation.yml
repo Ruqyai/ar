@@ -3,19 +3,19 @@ main:
 
 
   - title: "Talks"
-    url: /talks/    
+    url: /ar/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /ar/teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /ar/year-archive/
 
   - title: "CV"
-    url: /cv/
+    url: /ar/cv/
 
 
 
