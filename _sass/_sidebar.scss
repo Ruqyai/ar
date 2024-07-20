@@ -9,6 +9,8 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+          direction: rtl;
+          text-align: right;
 
   @include clearfix();
   margin-bottom: 1em;
