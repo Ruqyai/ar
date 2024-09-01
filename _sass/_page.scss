@@ -6,8 +6,8 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  // padding-left: 1em;
+  // padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -323,7 +323,7 @@
 }
 
 .comment__avatar-wrapper {
-  float: left;
+  // float: left;
   width: 60px;
   height: 60px;
 
@@ -347,7 +347,7 @@
 }
 
 .comment__content-wrapper {
-  float: right;
+  // float: right;
   width: calc(100% - 60px);
 
   @include breakpoint($large) {
@@ -382,7 +382,7 @@
   padding-top: 1em;
   border-top: 1px solid $border-color;
   @include clearfix();
-  float: left;
+  // float: left;
 
   @include breakpoint($large) {
     @include pre(2.5 of 12);
