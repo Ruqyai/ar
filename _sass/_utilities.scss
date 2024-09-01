@@ -127,7 +127,7 @@ body:hover .visually-hidden button {
 
   @include breakpoint($small) {
     float: left;
-    margin-left: 1em; /* Changed to margin-left for RTL */
+    margin-left: 1em; /* margin-left for RTL */
   }
 }
 
@@ -140,7 +140,7 @@ body:hover .visually-hidden button {
 
   @include breakpoint($small) {
     float: right;
-    margin-right: 1em; /* Changed to margin-right for RTL */
+    margin-right: 1em; /* margin-right for RTL */
   }
 }
 
@@ -156,7 +156,7 @@ body:hover .visually-hidden button {
 
 .full {
   @include breakpoint($large){
-    margin-left: -1 * span(2.5 of 12) !important; /* Changed to margin-left for RTL */
+    margin-right: -1 * span(2.5 of 12) !important; /* margin-right for RTL */
   }
 }
 
@@ -297,7 +297,7 @@ body:hover .visually-hidden button {
   &:after {
     content: "";
     position: absolute;
-    left: 0;
+    right: 0; /* Changed to right for RTL */
     width: $navicon-width;
     height: $navicon-height;
     background: #fff;
@@ -430,7 +430,7 @@ body:hover .visually-hidden button {
 .footnote {
   position: absolute;
   top: 0;
-  right: 0;
+  left: 0; /* Changed to left for RTL */
   z-index: 10;
   // font-size: $font-size-small;
   color: #333;
