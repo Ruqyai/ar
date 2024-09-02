@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "السيرة الذاتية"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,74 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
-**Summary**
 
-A highly motivated and accomplished Senior AI Engineer with extensive expertise in Deep Learning, Generative AI, and Arabic Natural Language Processing (NLP). Proven track record of successfully leading and contributing to the development of innovative AI-powered products, leveraging cutting-edge technologies like LLMs, LangChain, and Retrieval Augmented Generation (RAG). Passionate about advancing Arabic NLP and Generative AI applications, and actively involved in the AI community through mentorship and knowledge sharing initiatives.
+**الملخص**
 
-**Experience**
+مهندس ذكاء صناعي كبير بدافع قوي وذو إنجازات متميزة مع خبرة واسعة في التعلم العميق، الذكاء الصناعي التوليدي، ومعالجة اللغة الطبيعية العربية (NLP). سجل حافل في قيادة والمساهمة في تطوير منتجات مبتكرة مدعومة بالذكاء الصناعي، من خلال الاستفادة من أحدث التقنيات مثل النماذج اللغوية الكبيرة (LLMs)، LangChain، والتوليد المعزز بالاسترجاع (RAG). شغوف بتقدم تطبيقات NLP العربية والذكاء الصناعي التوليدي، ومشارك بنشاط في مجتمع الذكاء الصناعي من خلال الإرشاد ومبادرات تبادل المعرفة.
 
-**Fyler** (Sep 2023 - Present) 
+**الخبرة**
 
-* **Senior AI Engineer (Feb 2024 - Present):** Developing an AI-based search engine for the MENA region.
-* **AI Engineer (Sep 2023 - Feb 2024):** Developed innovative products using LLMs, NLP, and LangChain. 
+**Fyler** (سبتمبر 2023 - الحاضر)
 
-**Success Partners** (Apr 2021 - Jan 2022)
+* **Senior AI Engineer (فبراير 2024 - الحاضر):** تطوير محرك بحث قائم على الذكاء الصناعي لمنطقة الشرق الأوسط وشمال أفريقيا.
+* **AI Engineer (سبتمبر 2023 - فبراير 2024):** تطوير منتجات مبتكرة باستخدام النماذج اللغوية الكبيرة، NLP، وLangChain.
 
-* **Chief Executive Officer:** Led teams of 45 people to implement technical hackathons and provide other services, gaining diverse skills in a startup environment.
+**Success Partners** (أبريل 2021 - يناير 2022)
 
-**Bayan (Data science & Artificial intelligence)** (Jul 2020 - Jan 2022)
+* **المدير التنفيذي:** قيادة فرق من 45 شخصًا لتنفيذ هاكاثونات تقنية وتقديم خدمات أخرى، واكتساب مهارات متنوعة في بيئة الشركات الناشئة.
 
-* **Research And Development Member:** Participated in projects including Twitter social network analysis during the pandemic, Hajj 2021 tweets analysis, and Twitter sentiment analysis about school reopening.
+**Bayan (Data Science & Artificial Intelligence)** (يوليو 2020 - يناير 2022)
 
-**Techie bits** (Jul 2020 - Jan 2022)
+* **عضو في البحث والتطوير:** شاركت في مشاريع تشمل تحليل شبكة تويتر الاجتماعية خلال الجائحة، تحليل تغريدات حج 2021، وتحليل المشاعر على تويتر بشأن إعادة فتح المدارس.
 
-* **Data Science and AI/ML Consultant** 
+**Techie Bits** (يوليو 2020 - يناير 2022)
 
-**CODE FOR GIRLS** (May 2020 - Jan 2022) 
+* **مستشارة في علوم البيانات والذكاء الاصطناعي/التعلم الآلي**
 
-* **AI and Data Science Instructor**
+**Code for Girls** (مايو 2020 - يناير 2022)
 
-**Self Employed** (Mar 2018 - Jan 2022)
+* **مدرب في الذكاء الاصطناعي وعلوم البيانات**
 
-* **Freelance:** Worked on Data Science, Artificial Intelligence, and Machine Learning projects, including object detection, face recognition, time series, text classification, and Twitter NLP. Additionally, I have experience in website and mobile development.
+**Self Employed** (مارس 2018 - يناير 2022)
 
-**Classera**  (Jul 2017 - Aug 2017; Jul 2019 - Aug 2019)
+* **Freelance:** عملت على مشاريع في علوم البيانات، الذكاء الاصطناعي، والتعلم الآلي، بما في ذلك الكشف عن الأشياء، التعرف على الوجه، السلاسل الزمنية، تصنيف النصوص، وNLP على تويتر. بالإضافة إلى ذلك، لدي خبرة في تطوير المواقع والتطبيقات المحمولة.
+
+**Classera** (يوليو 2017 - أغسطس 2017؛ يوليو 2019 - أغسطس 2019)
 
 * **Summer Internship Program (2017):**
-    * Migrated Classera functions into API.
-    * Prepared presentations and conducted research on e-learning solutions.
-    * Developed a webpage of Classera Exams using HTML, CSS, and JavaScript.
+    * مطور Backend يعمل على تحويل وظائف Classera إلى API.
+    * إعداد العروض التقديمية وإجراء أبحاث حول حلول التعليم الإلكتروني.
+    * تطوير صفحة ويب لامتحانات Classera باستخدام HTML وCSS وJavaScript.
 
 * **Summer Internship Program Mentor (2019):**
-    * Provided support and guidance to trainees in the Summer Internship Program.
+    * تقديم الدعم والإرشاد للمتدربين في برنامج التدريب الصيفي.
 
-**Community Experiences**  
+**التجارب المجتمعية**
 
-* **Google Developer Expert in AI/ML:** Google developer expert in Artificial Intelligence/Machine Learning (Oct 2020 - Present)
-* **Google Cloud Champion Innovator:**  (Dec 2022 - Present)
-* **Google for Startups Accelerator MENA:** Mentor (Jan 2021 - Dec 2023) 
-* **Omdena UAE Chapter:** MLOps [Co-Lead Task] (Sep 2023 - Oct 2023)
-* **Fihm.ai:** Member (Feb 2020 - Present)
-* **TFUG-Saudi:** Co-Founder (Jan 2021 - Present) 
-* **Women in Data Science (WiDS) at Stanford University:** Ambassador (Dec 2020 - Dec 2023)
-* **Women Techmakers:** Ambassador (Jan 2020 - Present) 
-* **GDG Cloud Saudi:** Co-Organizer (Mar 2019 - Sep 2023)
-* **WTM Saudi Arabia:** Leader (Oct 2019 - Jan 2024) 
-* **Fintech Accelerator Program & Hackathon:** Mentor (Aug 2019 - Nov 2019) 
+* **Google Developer Expert in AI/ML:** خبير تطوير في الذكاء الصناعي/التعلم الآلي (أكتوبر 2020 - الحاضر)
+* **Google Cloud Champion Innovator:** (ديسمبر 2022 - الحاضر)
+* **Google for Startups Accelerator MENA:** مرشد (يناير 2021 - ديسمبر 2023)
+* **Omdena UAE Chapter:** قائد مجموعة عمليات التعلم الآلي (سبتمبر 2023 - أكتوبر 2023)
+* **Fihm.ai:** عضو (فبراير 2020 - الحاضر)
+* **TFUG-Saudi:** مؤسس مشارك (يناير 2021 - الحاضر)
+* **Women in Data Science (WiDS) at Stanford University:** سفير (ديسمبر 2020 - ديسمبر 2023)
+* **Women Techmakers:** سفير (يناير 2020 - الحاضر)
+* **GDG Cloud Saudi:** منظم مشارك (مارس 2019 - سبتمبر 2023)
+* **WTM Saudi Arabia:** قائد (أكتوبر 2019 - يناير 2024)
+* **Fintech Accelerator Program & Hackathon:** مرشد (أغسطس 2019 - نوفمبر 2019)
 
-**Education**
+**التعليم**
 
-* **LIBF:** Master of Science - MS, Artificial Intelligence (Dec 2023 - May 2025) (Expected) 
-* **Saudi Electronic University:** Bachelor's degree, Information Technology (2013 - 2018) 
+* **LIBF:** ماجستير في علوم الذكاء الصناعي (ديسمبر 2023 - مايو 2025) (متوقع)
+* **Saudi Electronic University:** بكالوريوس في تكنولوجيا المعلومات (2013 - 2018)
 
-**Core Skills**
+**المهارات الأساسية**
 
-* **Generative AI & LLMs:** Expertise in leveraging Large Language Models (LLMs) for applications like text generation, translation, and chatbot development. Proficient in LangChain and Retrieval Augmented Generation (RAG) for advanced LLM implementations.
-* **Arabic NLP:** Deep understanding and experience in developing NLP solutions for the Arabic language, including text classification, sentiment analysis, and named entity recognition.
-* **Machine Learning & Deep Learning:** Solid foundation in machine learning and deep learning algorithms, with experience in building and deploying models for various tasks.
-* **Data Science & Analysis:** Proficient in data collection, processing, and analysis techniques, with the ability to extract meaningful insights from complex datasets.
-* **Project Management & Leadership:** Successfully led teams in developing and delivering AI solutions, demonstrating strong organizational and communication skills.
-
+* **Generative AI & LLMs:** خبرة في الاستفادة من النماذج اللغوية الكبيرة لتطبيقات مثل توليد النصوص، الترجمة، وتطوير الدردشة الذكية. ماهر في LangChain والتوليد المعزز بالاسترجاع لتنفيذات LLM المتقدمة.
+* **Arabic NLP:** فهم عميق وخبرة في تطوير حلول NLP للغة العربية، بما في ذلك تصنيف النصوص، تحليل المشاعر، والتعرف على الكيانات المسماة.
+* **Machine Learning & Deep Learning:** قاعدة قوية في خوارزميات التعلم الآلي والتعلم العميق، مع خبرة في بناء وتطبيق النماذج لمهام متنوعة.
+* **Data Science & Analysis:** ماهر في جمع البيانات، معالجتها، وتقنيات التحليل، مع القدرة على استخراج رؤى ذات مغزى من مجموعات البيانات المعقدة.
+* **Project Management & Leadership:** قيادة الفرق بنجاح، مظهرًا مهارات تنظيمية تواصل قوية.
 
 
 <!-- Education

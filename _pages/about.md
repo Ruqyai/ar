@@ -1,18 +1,17 @@
 ---
 permalink: /
-title: "About me"
+title: "رقيا بن صافي"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+رقيا بن صافي هي مهندسة ذكاء اصطناعي أول شغوفة بتسخير إمكانيات الذكاء الاصطناعي لحل التحديات في العالم الحقيقي. تستمتع بالعمل على مشاريع متنوعة، بدءاً من تطوير منتجات الذكاء الاصطناعي، إلى المساهمة في مبادرات معالجة اللغة العربية، وصولاً إلى الغوص في أعماق تقنيات الذكاء الاصطناعي، وخاصة التوليدي، لاكتشاف إمكانياته الخفية.
 
-Ruqiya Bin Safi is a  Senior AI Engineer fascinated by the potential of AI to solve real-world challenges. She enjoys working on diverse projects, ranging from developing AI products to contributing to Arabic NLP initiatives and exploring the possibilities of generative AI.
+يدفعها الفضول و رغبتها في التعلّم المستمر، فتسعى رقيا بنشاط إلى فرص لتوسيع معرفتها ومجموعة مهاراتها. ويشمل ذلك البقاء على اطلاع بأحدث التطورات في هذا المجال، وتجربة تقنيات الذكاء الاصطناعي المختلفة، وصقل خبرتها باستمرار في جميع جوانب مشاريع الذكاء الاصطناعي.
 
-A lifelong learner driven by curiosity, Ruqiya actively seeks opportunities to expand her knowledge and skillset. This includes staying updated on the latest advancements in the field, experimenting with different AI technologies, and continuously honing her expertise in all aspects of AI projects.
+إيمانًا منها بقوة التعاون وتبادل المعرفة، تشارك رقيا بنشاط مع مجتمع الذكاء الاصطناعي من خلال مبادرات مختلفة. سواء كان ذلك من خلال ورش العمل، أو جلسات التوجيه والإرشاد، أو المشاركة في المناقشات حول التقنيات الناشئة، فهي شغوفة بجعل الذكاء الاصطناعي في متناول الجميع و تمكين الآخرين.
 
-Believing in the power of collaboration and knowledge sharing, Ruqiya actively engages with the AI community through various initiatives. Whether it's mentoring aspiring entrepreneurs or participating in discussions about emerging technologies, she is passionate about making AI accessible and empowering others.
-
-In her current role, Ruqiya is thrilled to be contributing to the development of innovative AI products. She is constantly seeking new ways to contribute to this rapidly evolving field and remains committed to continuous learning and growth alongside it. 
+في دورها الحالي، تشعر رقيا بسعادة غامرة للمساهمة في تطوير منتجات الذكاء الاصطناعي المبتكرة. فهي تبحث باستمرار عن طرق جديدة للمساهمة في هذا المجال سريع التطور، وتظل ملتزمة بالتعلم المستمر والنمو جنبًا إلى جنب معه.
 

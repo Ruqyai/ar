@@ -1,5 +1,5 @@
 ---
-title: "Data Engineering Course"
+title: "دورة هندسة البيانات"
 collection: teaching
 type: "Course"
 permalink: /teaching/2022-teaching
@@ -8,7 +8,7 @@ date: 2022-10-03
 location: "Zoom"
 ---
 
-A data engineering course that focuses on how to create a real-time Twitter analytics dashboard for streaming tweets with a sentiment analysis (NLP) feature.
+دورة في هندسة البيانات تركز على كيفية إنشاء لوحة تحكم تحليلية لتويتر في الوقت الفعلي لعرض تغريدات البث المباشر مع ميزة تحليل المشاعر (NLP).
 
 
 

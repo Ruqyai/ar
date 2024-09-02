@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning Course"
+title: "دورة التعلم العميق"
 collection: teaching
 type: "Course"
 permalink: /teaching/2021-teaching
@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "Youtube,Twitter, and Facebook"
 ---
 
-A course on deep learning methods with applications to computer vision, natural language processing . you will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow.
+دورة في خوارزميات التعلم العميق مع تطبيقات على رؤية الحاسوب ومعالجة اللغة الطبيعية. ستحصل على معرفة أساسية بالخوارزميات الخاصة بالتعلم العميق وستكتسب خبرة عملية في بناء الشبكات العصبية باستخدام TensorFlow.
 
 
 

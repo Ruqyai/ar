@@ -1,5 +1,5 @@
 ---
-title: "Data Science Course"
+title: "دورة علم البيانات"
 collection: teaching
 type: "Course"
 permalink: /teaching/2020-teaching
@@ -8,15 +8,15 @@ date: 2020-09-25
 location: "Zoom, Youtube"
 ---
 
-An Intensive Course in Data Science.
+دورة مكثفة في علم البيانات.
 
 
 
-|   Day   |  YouTube  | Slides | Examples |
+|   اليوم   |  YouTube  | العرض | الأمثلة |
 |----------|:------|-----:|----------|
-| First Day | [YouTube](https://youtu.be/uv8FoTpwIyo) | [Slides](https://bit.ly/3i1rnWk ) |  |
-| Second Day | [YouTube](https://youtu.be/RjtZwcy49Pg) | [Slides](https://bit.ly/3i2D7Iq) | [![Frist Example](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://bit.ly/2G0BkGz) |
-| Third Day | [YouTube](https://youtu.be/CUI7FuZyFWU) | [Slides](https://bit.ly/3mVOBkA) | [![Second Example](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://bit.ly/33ZmnfX) |
+| اليوم الأول | [YouTube](https://youtu.be/uv8FoTpwIyo) | [Slides](https://bit.ly/3i1rnWk ) |  |
+| اليوم الثاني | [YouTube](https://youtu.be/RjtZwcy49Pg) | [Slides](https://bit.ly/3i2D7Iq) | [![Frist Example](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://bit.ly/2G0BkGz) |
+| اليوم الثالث | [YouTube](https://youtu.be/CUI7FuZyFWU) | [Slides](https://bit.ly/3mVOBkA) | [![Second Example](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://bit.ly/33ZmnfX) |
 
 
 

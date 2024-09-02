@@ -1,21 +1,22 @@
 # main links links
 main:
 
-
-  - title: "Talks"
+  - title: "ورش العمل"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "الدورات"
     url: /teaching/    
     
-  # - title: "Portfolio"
+  # - title: "المعرض"
   #   url: /portfolio/
 
-  - title: "Blog Posts"
+  - title: "المدونة"
     url: /year-archive/
 
-  - title: "CV"
+  - title: "السيرة الذاتية"
     url: /cv/
 
+  - title: "English"
+    url: https://ruqyai.github.io/
 
 
