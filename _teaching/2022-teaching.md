@@ -14,12 +14,12 @@ location: "Zoom"
 
 <table class="tg">
     <tr>
-        <th class="tg-yw4l"><b>Day</b></th>
-        <th class="tg-yw4l"><b>Slides</b></th>
-        <th class="tg-yw4l"><b> Examples </b></th>
+        <th class="tg-yw4l"><b>اليوم</b></th>
+        <th class="tg-yw4l"><b>العرض التقديمي</b></th>
+        <th class="tg-yw4l"><b> الأمثلة </b></th>
     </tr>
     <tr>
-        <td class="tg-yw4l"> Day#1 </td>
+        <td class="tg-yw4l"> اليوم الأول </td>
         <td class="tg-yw4l"> <a href="https://bit.ly/DE_Slide1">Slides</a> </td>
         <td class="tg-yw4l"> <a href="https://github.com/Ruqyai/Tuwaiq_Academy/blob/main/Docker-compose.yml"> Run Jupyter Docker image </a> or
             <a href="https://github.com/Ruqyai/Tuwaiq_Academy/blob/main/Jupyter/Colab/PySpark_On_Colab.ipynb">
@@ -28,7 +28,7 @@ location: "Zoom"
         </td>
     </tr>
     <tr>
-        <td class="tg-yw4l"> Day#2 </td>
+        <td class="tg-yw4l"> اليوم الثاني </td>
         <td class="tg-yw4l"><a href="https://bit.ly/3M6etal">Slides </a></td>
         <td class="tg-yw4l">
             <a href="https://github.com/Ruqyai/Tuwaiq_Academy/blob/main/Jupyter/Colab/Kafka_on_Colab.ipynb">
@@ -43,7 +43,7 @@ location: "Zoom"
         </td>
     </tr>
     <tr>
-        <td class="tg-yw4l"> Day#3 </td>
+        <td class="tg-yw4l"> اليوم الثالث </td>
         <td class="tg-yw4l"><a href="https://bit.ly/3CdN6GL"> Slides </a></td>
         <td class="tg-yw4l"><a href="https://github.com/Ruqyai/Tuwaiq_Academy/blob/main/Docker-compose.yml"> Run the project using Docker </a> or 
         <a href="https://github.com/Ruqyai/Tuwaiq_Academy/blob/main/Jupyter/Colab/Final_Project_on_Colab.ipynb">
