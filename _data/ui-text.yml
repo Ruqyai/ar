@@ -12,7 +12,7 @@ ar: &DEFAULT_AR
   less_than                  : "أقل من"
   minute_read                : "دقيقة قراءة"
   share_on_label             : "شارك على"
-  meta_label                 : "ميتا"
+  meta_label                 : ""
   tags_label                 : "علامات:"
   categories_label           : "الفئات:"
   date_label                 : "تم النشر:"
