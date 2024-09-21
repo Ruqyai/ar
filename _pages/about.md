@@ -15,3 +15,8 @@ redirect_from:
 
 في دورها الحالي، تشعر رقيا بسعادة غامرة للمساهمة في تطوير منتجات الذكاء الاصطناعي المبتكرة. فهي تبحث باستمرار عن طرق جديدة للمساهمة في هذا المجال سريع التطور، وتظل ملتزمة بالتعلم المستمر والنمو جنبًا إلى جنب معه.
 
+## اشترك في النشرة الإخبارية
+
+<iframe data-w-type="embedded" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://svoyr.mjt.lu/wgt/svoyr/xt0l/form?c=9befdd34" width="100%" style="height: 0;"></iframe>
+
+<script type="text/javascript" src="https://app.mailjet.com/pas-nc-embedded-v1.js"></script>
